@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="60mm"
+   height="60mm"
+   viewBox="0 0 60 60"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="InverseKinematicsIcon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#c5c5c5"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.9701207"
+     inkscape:cx="129.1799"
+     inkscape:cy="129.4337"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Dot"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="0.8"
+       markerHeight="0.8"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path17" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-stretch:condensed;font-size:48px;line-height:1.25;font-family:'Graphik Cond Trial';-inkscape-font-specification:'Graphik Cond Trial Bold Condensed';text-decoration-color:#000000;inline-size:73.4202;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="37.358238"
+       y="177.08775"
+       id="text9"
+       transform="matrix(0.26458333,0,0,0.26458333,0.3837315,3.8373148)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-stretch:condensed;font-size:48px;line-height:1.25;font-family:'Graphik Cond Trial';-inkscape-font-specification:'Graphik Cond Trial Bold Condensed';text-decoration-color:#000000;inline-size:73.4202;display:inline;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="37.358238"
+       y="177.08775"
+       id="text10"
+       transform="matrix(0.26458333,0,0,0.26458333,15.221348,3.5814938)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#Dot)"
+       d="M 4.0144456,4.0237764 L 13.952504,28.600097"
+       id="path1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#Dot)"
+       d="M 39.146578,28.729973 L 13.952504,28.600097"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#6c6753;fill-opacity:1;stroke:#6c6753;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#Dot)"
+       d="M 46.586557,50.664157 L 39.146578,28.729973"
+       id="path3"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-stretch:condensed;font-size:48px;line-height:1.25;font-family:'Graphik Cond Trial';-inkscape-font-specification:'Graphik Cond Trial Bold Condensed';text-decoration-color:#000000;letter-spacing:-10px;inline-size:73.4202;fill:#6c6753;fill-opacity:1;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="112.17587"
+       y="183.2375"
+       id="text3"
+       transform="matrix(0.25365732,-0.07524826,0.07524826,0.25365732,-8.7470598,20.456573)"><tspan
+         x="112.17587"
+         y="183.2375"
+         id="tspan1">((</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-stretch:condensed;font-size:48px;line-height:1.25;font-family:'Graphik Cond Trial';-inkscape-font-specification:'Graphik Cond Trial Bold Condensed';text-decoration-color:#000000;letter-spacing:-10px;inline-size:73.4202;fill:#6c6753;fill-opacity:1;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="112.17587"
+       y="183.2375"
+       id="text4"
+       transform="matrix(-0.25365732,0.07524826,-0.07524826,-0.25365732,101.85439,80.962387)"><tspan
+         x="112.17587"
+         y="183.2375"
+         id="tspan2">((</tspan></text>
+  </g>
+</svg>
