@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="60mm"
+   width="120mm"
    height="60mm"
-   viewBox="0 0 60 60"
+   viewBox="0 0 120 60"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="CopyLocationIcon.svg"
+   sodipodi:docname="CopyLocationLeftRight.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,12 +23,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.061125"
-     inkscape:cx="129.29832"
-     inkscape:cy="167.86949"
+     inkscape:zoom="1.4574355"
+     inkscape:cx="96.059142"
+     inkscape:cy="120.07393"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -79,13 +79,29 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.96098;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Triangle);marker-end:url(#marker3)"
-       d="M 6.035294,21.800047 L 6.035294,53.964706 L 38.199952,53.964706"
+       d="M 6.035294,21.800047 V 53.964706 H 38.199952"
        id="path4"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#6c6753;stroke-width:1.96098;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Triangle);marker-end:url(#marker3)"
-       d="M 20.871755,6.9635871 V 39.128246 H 53.036413"
+       d="M 80.871755,21.800047 V 53.964706 H 113.03641"
        id="path1"
        sodipodi:nodetypes="ccc" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#6c6753;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="path1-8"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="-48.863163"
+       sodipodi:cy="25.752207"
+       sodipodi:r1="11.244725"
+       sodipodi:r2="9.7382174"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M -37.618438,25.752207 L -54.485526,35.490425 L -54.485526,16.013989 Z"
+       transform="translate(106.05203,4.2477932)" />
   </g>
 </svg>
